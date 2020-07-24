@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MY BLOG</title>
+    <link>https://nicole01101101zke.github.io/</link>
+    <description>Recent content on MY BLOG</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>youremail@domain.com (Some Person)</managingEditor>
+    <webMaster>youremail@domain.com (Some Person)</webMaster>
+    <lastBuildDate>Thu, 23 Jul 2020 09:29:18 +0800</lastBuildDate>
+    
+	<atom:link href="https://nicole01101101zke.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Test</title>
+      <link>https://nicole01101101zke.github.io/posts/test/</link>
+      <pubDate>Thu, 23 Jul 2020 09:29:18 +0800</pubDate>
+      <author>youremail@domain.com (Some Person)</author>
+      <guid>https://nicole01101101zke.github.io/posts/test/</guid>
+      <description>这是第一篇文章</description>
+    </item>
+    
+  </channel>
+</rss>
